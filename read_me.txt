@@ -1,6 +1,17 @@
 # Ubuntu because it doesnot have Visual Studio 
 
-Create and Run project:
+Extra:
+    dotnet -h
+    dotnet info
+    dotnet --version
+
+
+1. Create and Run project:
     dotnet new console -o app
     cd app
-    dotnet run 
+    dotnet run
+
+
+2. MVC project Create:
+    mkdir <ProjectName> 
+    dotnet new mvc
