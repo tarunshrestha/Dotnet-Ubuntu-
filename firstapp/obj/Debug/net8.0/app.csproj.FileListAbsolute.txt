@@ -1,0 +1,14 @@
+/media/tarun/D88E13A78E137CE6/Dotnet/app/bin/Debug/net8.0/app
+/media/tarun/D88E13A78E137CE6/Dotnet/app/bin/Debug/net8.0/app.deps.json
+/media/tarun/D88E13A78E137CE6/Dotnet/app/bin/Debug/net8.0/app.runtimeconfig.json
+/media/tarun/D88E13A78E137CE6/Dotnet/app/bin/Debug/net8.0/app.dll
+/media/tarun/D88E13A78E137CE6/Dotnet/app/bin/Debug/net8.0/app.pdb
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/app.dll
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/refint/app.dll
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/app.pdb
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/Debug/net8.0/ref/app.dll
