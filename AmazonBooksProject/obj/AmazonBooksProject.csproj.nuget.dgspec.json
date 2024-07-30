@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/AmazonBooksProject.csproj": {}
+    "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/AmazonBooksProject.csproj": {}
   },
   "projects": {
-    "/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/AmazonBooksProject.csproj": {
+    "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/AmazonBooksProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/AmazonBooksProject.csproj",
+        "projectUniqueName": "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/AmazonBooksProject.csproj",
         "projectName": "AmazonBooksProject",
-        "projectPath": "/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/AmazonBooksProject.csproj",
+        "projectPath": "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/AmazonBooksProject.csproj",
         "packagesPath": "/home/tarun/.nuget/packages/",
-        "outputPath": "/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/obj/",
+        "outputPath": "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tarun/.nuget/NuGet/NuGet.Config"

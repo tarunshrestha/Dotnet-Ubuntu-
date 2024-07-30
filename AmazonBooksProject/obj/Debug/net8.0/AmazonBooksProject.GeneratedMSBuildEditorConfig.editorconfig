@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AmazonBooksProject
 build_property.RootNamespace = AmazonBooksProject
-build_property.ProjectDir = /media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/
+build_property.ProjectDir = /mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject
+build_property.MSBuildProjectDirectory = /mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject
 build_property._RazorSourceGeneratorDebug = 
 
-[/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/Views/Home/Index.cshtml]
+[/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/Views/Home/Privacy.cshtml]
+[/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/Views/Shared/Error.cshtml]
+[/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/Views/_ViewImports.cshtml]
+[/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/Views/_ViewStart.cshtml]
+[/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/media/tarun/D88E13A78E137CE6/Dotnet/AmazonBooksProject/Views/Shared/_Layout.cshtml]
+[/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/AmazonBooksProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fiqwo359ve

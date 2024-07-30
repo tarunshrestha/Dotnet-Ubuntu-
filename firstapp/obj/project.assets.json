@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/tarun/D88E13A78E137CE6/Dotnet/app/app.csproj",
+      "projectUniqueName": "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/firstapp/app.csproj",
       "projectName": "app",
-      "projectPath": "/media/tarun/D88E13A78E137CE6/Dotnet/app/app.csproj",
+      "projectPath": "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/firstapp/app.csproj",
       "packagesPath": "/home/tarun/.nuget/packages/",
-      "outputPath": "/media/tarun/D88E13A78E137CE6/Dotnet/app/obj/",
+      "outputPath": "/mnt/824EB9CC4EB9B96D/Projects/Dotnet(Ubuntu)/firstapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tarun/.nuget/NuGet/NuGet.Config"
